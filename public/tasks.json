@@ -1,0 +1,31 @@
+// This is example of how does task object look like.
+// "id" property is set in data.js file.
+// You need to add content of this file in browser localstore with the key 'tasks'
+
+[
+    {
+        "id": null,
+        "task": "Add new task",
+        "isChecked": false
+    },
+    {
+        "id": null,
+        "task": "Read the book",
+        "isChecked": true
+    },
+    {
+        "id": null,
+        "task": "Practice some coding",
+        "isChecked": true
+    },
+    {
+        "id": null,
+        "task": "Sleep early",
+        "isChecked": false
+    },
+    {
+        "id": null,
+        "task": "Run for 10km",
+        "isChecked": true
+    }
+]
